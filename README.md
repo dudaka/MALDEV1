@@ -27,5 +27,11 @@ The main goal of this repo is to document my learning process, experiments, and 
 "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvars64.bat"
 ```
 
+## TODO
+
+- Reviewing Building EXE, DLL and examing the PE file structure
+- Reviewing Embedding shellcode payloads in data section
+- Reviewing Generating shellcode using Tetasploit in Kali linux
+
 ## Disclaimer
 This repository is for educational purposes only. All code and resources are intended for learning and research in a controlled, legal environment.
