@@ -1,0 +1,74 @@
+# Compiled object files
+*.obj
+*.o
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Visual Studio files
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# CodeBlocks files
+*.depend
+*.layout
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+install_manifest.txt
+
+# Qt Creator files
+*.pro.user
+*.qbs.user
+*.moc
+*.qrc
+*.autosave
+
+# Other build files
+build/
+dist/
+Debug/
+Release/
+
+# Backup files
+*~
+*.swp
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+.vscode/
